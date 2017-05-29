@@ -1,6 +1,5 @@
 # -*- coding: UTF-8 -*-
 import math
-
 import random
 # 函数
 def Rosenbrock(x1,x2):
